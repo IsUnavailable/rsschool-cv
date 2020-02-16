@@ -1,0 +1,54 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.6rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(247, 247, 247);
+}
+
+header {
+    background-image: url("../img/header_1280.webp");     
+}
+
+.bg-color {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15% 10%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    text-align:  center;  
+}
+
+h1 {
+    color: white;
+}
+
+section {
+    padding: 5% 10%;    
+}
+
+.summary {
+    box-shadow: inset 0px 10px 10px -10px black;   
+}
+
+.skills-ul {
+    margin: 0% 25%;
+}
+
+hr {
+    width: 800px;
+    color: rgb(29, 29, 29);
+}
+
+footer {
+    background-color: rgb(10, 10, 10);  
+    color: rgb(228, 228, 228);
+}
+
+footer a{
+    color: rgb(228, 228, 228);
+}
